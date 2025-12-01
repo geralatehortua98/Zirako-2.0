@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Características Principales
+## Características Principales
 
 ###  Mercado y Gestión de Artículos
 - **Publicación:** Los usuarios pueden publicar artículos con fotos, descripción y ubicación.
