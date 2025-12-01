@@ -1,0 +1,25 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/1a5b4_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_000b547f._.js",
+    "static/chunks/1a5b4_next_dist_compiled_react-dom_b6ed11d7._.js",
+    "static/chunks/1a5b4_next_dist_compiled_react-server-dom-turbopack_b15e20b2._.js",
+    "static/chunks/1a5b4_next_dist_compiled_next-devtools_index_b8bc8902.js",
+    "static/chunks/1a5b4_next_dist_compiled_858bf19e._.js",
+    "static/chunks/1a5b4_next_dist_client_c5720450._.js",
+    "static/chunks/1a5b4_next_dist_3b25b5e6._.js",
+    "static/chunks/a9853_@swc_helpers_cjs_6c3fda5e._.js",
+    "static/chunks/Downloads_zirako2_0_a0ff3932._.js",
+    "static/chunks/turbopack-Downloads_zirako2_0_afa7e43f._.js"
+  ]
+}

@@ -1,0 +1,10 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/items/mis-articulos/route.js")
+R.c("server/chunks/1a5b4_next_ec69c6fc._.js")
+R.c("server/chunks/2c387_mysql2_b7b225db._.js")
+R.c("server/chunks/402a3_iconv-lite_a63398d7._.js")
+R.c("server/chunks/e1238_aws-ssl-profiles_lib_4b8fe69c._.js")
+R.c("server/chunks/d6e4a__pnpm_97134a28._.js")
+R.c("server/chunks/[root-of-the-server]__af99a0c6._.js")
+R.c("server/chunks/10b1d_0__next-internal_server_app_api_items_mis-articulos_route_actions_8a38c546.js")
+R.m("[project]/Downloads/zirako2.0/node_modules/.pnpm/next@16.0.0_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Downloads/zirako2.0/app/api/items/mis-articulos/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/Downloads/zirako2.0/node_modules/.pnpm/next@16.0.0_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Downloads/zirako2.0/app/api/items/mis-articulos/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

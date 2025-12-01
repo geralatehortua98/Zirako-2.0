@@ -1,0 +1,10 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/items/[id]/route.js")
+R.c("server/chunks/7720d_next_d0e3508a._.js")
+R.c("server/chunks/b0219_mysql2_049de750._.js")
+R.c("server/chunks/a8724_iconv-lite_747f21da._.js")
+R.c("server/chunks/6f7a7_aws-ssl-profiles_lib_a48b3e13._.js")
+R.c("server/chunks/b6bd0__pnpm_f303abeb._.js")
+R.c("server/chunks/[root-of-the-server]__4af3ae07._.js")
+R.c("server/chunks/6c7f9_PRUEBAIA__next-internal_server_app_api_items_[id]_route_actions_5eef74da.js")
+R.m("[project]/Downloads/PRUEBAIA/node_modules/.pnpm/next@16.0.0_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Downloads/PRUEBAIA/app/api/items/[id]/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/Downloads/PRUEBAIA/node_modules/.pnpm/next@16.0.0_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Downloads/PRUEBAIA/app/api/items/[id]/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
